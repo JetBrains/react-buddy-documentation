@@ -83,3 +83,29 @@ Number of performance improvements and bugfixes
 
 Number of performance improvements and bugfixes
 
+## 2022.3 (2022-06-27)
+
+### Features
+* Ability to add a popular UI library to a project Currently, it's in incubator stage and is available through the find action menu (ctrl/cmd + a). Type `Install React Library` to find the action
+  * Ant.Design
+  * MUI
+  * ChakraUI
+  * Mantine
+  * NativeBase
+  * NextUI
+* Live templates for React hooks:
+  * `usest` - useState
+  * `usee` - useEffect
+  * `usec` - useContext
+  * `userd` - useReducer
+  * `usecb` - useCallback
+  * `usem` - useMemo
+  * `user` - useRef
+  * `useih` - useImperativeHandle
+  * `usele` - useLayoutEffect
+  * `usedv` - useDebugValue
+* Improved preview dev server configuration - now we detect the port of the dev server automatically
+* Also, the plugin detects if some library in a project has an existing palette and offers to install one as an npm dependency
+* Documentation URL now can be specified for each palette component and variant. To open the documentation use the corresponding icon on the top bar.
+* Now the Outline allows to move JSX between different components
+
