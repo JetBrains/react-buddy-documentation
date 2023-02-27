@@ -28,3 +28,30 @@ We fixed an issue with the plugin settings synchronisation. Please reapply globa
 * Better component preview line marker placement
 
 Number of performance improvements and bugfixes
+
+
+## 2022.6 (2022-12-22)
+
+### Features
+* Preview
+  * Ability to see component re-renders
+  * Now the preview is refreshed by default. Re-initialization is moved to a separate action.
+  * Action to navigate to the preview registration
+* Preview of palette components is now also available in code generation dialog
+* Intention to wrap an event handler in `useCallback()`
+* Quick fix to add missing deps `touseCallback()` and `useMemo()` Automatically deactivates if eslint integration is on
+* JSX outline
+  * An appearance of the outline can be stored and applied for new editors (see the plugin settings)
+  * Action to insert a component form the palette
+  * Hooks visibility control
+  * Ability to reorder components in a file
+* Basic preact support (preview and library installation currently does not work)
+* `useRef` now is being generated with nullable type
+
+### Incubator Features
+* App templates
+  * Form designer
+  * Card list designer
+
+Number of performance improvements and bugfixes
+
