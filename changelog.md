@@ -109,3 +109,17 @@ Number of performance improvements and bugfixes
 * Documentation URL now can be specified for each palette component and variant. To open the documentation use the corresponding icon on the top bar.
 * Now the Outline allows to move JSX between different components
 
+## 2022.2 (2022-04-27)
+
+In this release we were focused on two features: advanced code generation and component metadata protocol. Both features are in the Incubator. It means they are in the active development phase, with major improvements and changes planned in the nearest future.
+
+* The Metadata protocol allows to:
+  * Specify component props used to distinguish elements in the Outline
+  * Customize groups and props ordering in the Inspector
+* Advanced code generation mechanism with the following features for snippets:
+  * Can be declared in a separate files (prototypes).
+  * Now may contain hooks and event handlers.
+  * Parametrization support
+* Added an ability to declare sub-components in the Palette.
+
+Usability improvements and bugfixes.
