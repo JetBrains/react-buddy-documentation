@@ -123,3 +123,20 @@ In this release we were focused on two features: advanced code generation and co
 * Added an ability to declare sub-components in the Palette.
 
 Usability improvements and bugfixes.
+
+## 2022.1 (2022-03-16)
+
+The first stable release! Among features and significant improvements, the cardinal change is the preview which works on arbitrary projects (no need to use `@react-buddy/react-scripts` anymore). Other changes are listed below:
+
+* Support projects on pure JavaScript. Previously only TypeScript-based projects were supported.
+* Support workspaces with several apps
+* Automated setup of `@react-buddy/ide-toolbox`. The plugin will offer to add the dependency and all required files (palette/preview).
+* React hook code generation action.
+* Batch palette creation mechanism.
+* Ability to search and copy/paste nodes in the JSX Outline.
+* Handlers and other local functions are now displayed in the JSX Outline.
+* Gutter icons for handlers in code editor.
+* Antd and MUI palettes were published as npm packages.
+* Palettes can be added as dependencies.
+
+Bugfixes and improvements.
