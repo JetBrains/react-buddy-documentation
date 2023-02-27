@@ -1,4 +1,4 @@
-# [Itellij Plugin](https://plugins.jetbrains.com/plugin/17467-react-buddy/) Changelog
+# [Intellij Plugin](https://plugins.jetbrains.com/plugin/17467-react-buddy/) Changelog
 
 ## 2023.1 (2023-02-17)
 
