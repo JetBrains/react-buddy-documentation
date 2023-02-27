@@ -55,3 +55,17 @@ Number of performance improvements and bugfixes
 
 Number of performance improvements and bugfixes
 
+
+## 2022.5 (2022-10-19)
+
+### Features
+* Component tree view in the Project tool window
+  * Displays hierarchy of React application components
+  * Displays paths of components used in routing (supporting react-router)
+* Quick fix to add new props to a component straight from JSX
+* Intention to wrap a functional component to `React.memo()`
+* Now it's possible to configure the type of generated handlers (function declaration/function expression)
+* Gutter icons provided by the plugin are now configurable (you can switch off unnecessary icons in IDE's settings)
+* Hooks-related features are now available only if project's React supports hooks (16.8+)
+
+Number of performance improvements and bugfixes
