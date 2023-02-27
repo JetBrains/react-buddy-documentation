@@ -69,3 +69,17 @@ Number of performance improvements and bugfixes
 * Hooks-related features are now available only if project's React supports hooks (16.8+)
 
 Number of performance improvements and bugfixes
+
+## 2022.4 (2022-08-15)
+
+### Features
+* Code preview for the palette components and code generation actions
+* An action to create a new React component from project tree
+* Complex palette snippets (defined as prototypes) now support passing local variables as parameters
+* `useRef` generation intention
+* Built-in React hooks are added to the palette
+* JSX Outline now supports arrays of JSX elements
+* Components from palette now can be added to an arbitrary part of the component (npt only inside the JSX)
+
+Number of performance improvements and bugfixes
+
