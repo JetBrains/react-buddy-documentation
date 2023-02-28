@@ -39,7 +39,7 @@ Number of performance improvements and bugfixes
   * Action to navigate to the preview registration
 * Preview of palette components is now also available in code generation dialog
 * Intention to wrap an event handler in `useCallback()`
-* Quick fix to add missing deps `touseCallback()` and `useMemo()` Automatically deactivates if eslint integration is on
+* Quick fix to add missing deps to `useCallback()` and `useMemo()`. Automatically deactivates if eslint integration is on.
 * JSX outline
   * An appearance of the outline can be stored and applied for new editors (see the plugin settings)
   * Action to insert a component form the palette
