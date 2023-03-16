@@ -1,5 +1,14 @@
 # [Intellij Plugin](https://plugins.jetbrains.com/plugin/17467-react-buddy/) Changelog
 
+## 2023.1.1 (2023-03-02)
+* Support for TypeScript path aliases [RCB-687](https://issues.react-buddy.com/issue/RCB-687)
+* React Buddy now respects IDE semicolon settings for TypeScript and JavaScript [RCB-688](https://issues.react-buddy.com/issue/RCB-688)
+* Navigation to a particular Storybook story from the tool window [RCB-697](https://issues.react-buddy.com/issue/RCB-697)
+* Version adapted to IJ 2023.1 Beta
+* Improved preact support
+
+[All resolved issues](https://issues.react-buddy.com/issues/RCB?q=Milestone:%2023.1.1)
+
 ## 2023.1 (2023-02-17)
 
 ### Breaking changes
