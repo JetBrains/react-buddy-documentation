@@ -1,5 +1,11 @@
 # [Intellij Plugin](https://plugins.jetbrains.com/plugin/17467-react-buddy/) Changelog
 
+## 2023.1.2 (2023-03-15)
+* Next.js support - component preview now works in projects based on Next.js@10+ with experimental `@react-buddy/ide-toolbox-next`. [RCB-353](https://issues.react-buddy.com/issue/RCB-353)
+* Preview initialisation improvements [RCB-704](https://issues.react-buddy.com/issue/RCB-704/IDE-closes-itself-when-changing-dev-server-port-number)
+
+[All resolved issues](https://issues.react-buddy.com/issues/RCB?q=Milestone:%2023.1.2)
+
 ## 2023.1.1 (2023-03-02)
 * Support for TypeScript path aliases [RCB-687](https://issues.react-buddy.com/issue/RCB-687)
 * React Buddy now respects IDE semicolon settings for TypeScript and JavaScript [RCB-688](https://issues.react-buddy.com/issue/RCB-688)
