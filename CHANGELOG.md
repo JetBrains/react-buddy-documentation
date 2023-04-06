@@ -3,8 +3,8 @@
 ## 2023.1.3 (2023-04-04)
 * Fixed back and forward navigation in tsx/jsx files [RCB-758](https://issues.react-buddy.com/issue/RCB-758/Back-and-forward-navigation-is-broken-in-tsxjsx-files)
 * Categories in the Storybook tool-window are soreted alphabetically. Stories are sorted in definition order. [RCB-736](https://issues.react-buddy.com/issue/RCB-736/Sort-storybook-categories-alphabetically-stories-in-definition-order)
-* Upgrade Mantine installation logic to use v6 [RCB-740](https://youtrack.haulmont.com/issue/RCB-740/Upgrade-Install-React-Library-UI-kit-version-for-Mantine)
-* Fix JSX map inspection for IntelliJ 2023.1 [RCB-733](https://youtrack.haulmont.com/issue/RCB-733/The-231-version-of-intellIJ-IDEA-has-no-JSX-map-inspection)
+* Upgrade Mantine installation logic to use v6 [RCB-740](https://issues.react-buddy.com/issue/RCB-740/Upgrade-Install-React-Library-UI-kit-version-for-Mantine)
+* Fix JSX map inspection for IntelliJ 2023.1 [RCB-733](https://issues.react-buddy.com/issue/RCB-733/The-231-version-of-intellIJ-IDEA-has-no-JSX-map-inspection)
 
 [All resolved issues](https://issues.react-buddy.com/issues/RCB?q=Milestone:%2023.1.3)
 
