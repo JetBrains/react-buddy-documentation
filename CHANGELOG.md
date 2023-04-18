@@ -3,6 +3,7 @@
 ## 2023.1.4 (2023-04-18)
 * React 18 support (added new hooks), updated doc links to react.dev
 * WSL 2 support [RCB-768](https://issues.react-buddy.com/issue/RCB-768/Issue-with-project-placed-in-WSL-2)
+
 [All resolved issues](https://issues.react-buddy.com/issues/RCB?q=Milestone:%2023.1.4)
 
 ## 2023.1.3 (2023-04-04)
