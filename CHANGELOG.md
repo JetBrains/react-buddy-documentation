@@ -1,5 +1,10 @@
 # [Intellij Plugin](https://plugins.jetbrains.com/plugin/17467-react-buddy/) Changelog
 
+## 2023.1.4 (2023-04-18)
+* React 18 support (added new hooks), updated doc links to react.dev
+* WSL 2 support [RCB-768](https://issues.react-buddy.com/issue/RCB-768/Issue-with-project-placed-in-WSL-2)
+[All resolved issues](https://issues.react-buddy.com/issues/RCB?q=Milestone:%2023.1.4)
+
 ## 2023.1.3 (2023-04-04)
 * Fixed back and forward navigation in tsx/jsx files [RCB-758](https://issues.react-buddy.com/issue/RCB-758/Back-and-forward-navigation-is-broken-in-tsxjsx-files)
 * Categories in the Storybook tool-window are soreted alphabetically. Stories are sorted in definition order. [RCB-736](https://issues.react-buddy.com/issue/RCB-736/Sort-storybook-categories-alphabetically-stories-in-definition-order)
