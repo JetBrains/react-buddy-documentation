@@ -1,5 +1,24 @@
 # [Intellij Plugin](https://plugins.jetbrains.com/plugin/17467-react-buddy/) Changelog
 
+## 2023.2 (2023-05-02)
+
+### Features
+* Quick-fix for adding new props to a current React component (from unresolved symbol or empty prop in JSX) [683](https://issues.react-buddy.com/issue/RCB-683) [RCB-764](https://issues.react-buddy.com/issue/RCB-764)
+* Most elements in base React palette are now editable live templates [RCB-755](https://issues.react-buddy.com/issue/RCB-755)
+* New live templates and palette elements for React components creation [RCB-682](https://issues.react-buddy.com/issue/RCB-682)
+* New live template for context generation: `ctx` [RCB-673](https://issues.react-buddy.com/issue/RCB-673/React-context-code-generation)
+* Storybook
+  * CSF 3 (Storybook 7) support [RCB-691](https://issues.react-buddy.com/issue/RCB-691)
+  * Storybook category in React Palette [RCB-746](https://issues.react-buddy.com/issue/RCB-746)
+  * Drag and Drop from Storybook tool-window to the JSX Outline [RCB-745](https://issues.react-buddy.com/issue/RCB-745)
+  * Project tree action for new `.stories` file creation [RCB-747](https://issues.react-buddy.com/issue/RCB-747)
+
+### Improvements
+* Auto-import improvements [RCB-742](https://issues.react-buddy.com/issue/RCB-742)
+* Better JS keywords treatment on code generation [RCB-723](https://issues.react-buddy.com/issue/RCB-723)
+
+[All resolved issues](https://issues.react-buddy.com/issues/RCB?q=Milestone:%2023.2)
+
 ## 2023.1.5 (2023-04-21)
 * Fixed FilenameIndex exception on project open [RCB-778](https://issues.react-buddy.com/issue/RCB-778/comintellijpsisearchFilenameIndex-throw-javalangThrowable-Assertion-failed)
 * Images were revomed from the plugin description.
