@@ -1,5 +1,19 @@
 # [Intellij Plugin](https://plugins.jetbrains.com/plugin/17467-react-buddy/) Changelog
 
+## 2023.2.1 (2023-05-11)
+
+### Improvements
+
+* New prop generation: added heuristics to avoid collisions with existing props [RCB-779](https://issues.react-buddy.com/issue/RCB-779)
+* Now the plugin is being activated even if React is added as a transitive dependency [RCB-793](https://issues.react-buddy.com/issue/RCB-793)
+* Create a new React component action: the most recently selected component type is used by default [RCB-798](https://issues.react-buddy.com/issue/RCB-798)
+
+### Fixes
+
+* The annoying `Synchronous execution under ReadAction` exception and number of other minor issues are fixed
+
+[All resolved issues](https://issues.react-buddy.com/issues/RCB?q=Milestone:%2023.2.1)
+
 ## 2023.2 (2023-05-02)
 
 ### Features
