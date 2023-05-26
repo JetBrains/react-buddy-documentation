@@ -1,5 +1,13 @@
 # [Intellij Plugin](https://plugins.jetbrains.com/plugin/17467-react-buddy/) Changelog
 
+## 2023.2.2 (2023-05-25)
+
+* The version compatible with IntelliJ 23.2 EAP has been published.
+* In a newly opened project React Buddy's tool-windows expanded only if `palette.tsx` defined.
+* A number of bugfixes and improvements.
+
+[All resolved issues](https://issues.react-buddy.com/issues/RCB?q=Milestone:%2023.2.1)
+
 ## 2023.2.1 (2023-05-11)
 
 ### Improvements
