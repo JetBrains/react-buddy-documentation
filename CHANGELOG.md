@@ -1,5 +1,11 @@
 # [Intellij Plugin](https://plugins.jetbrains.com/plugin/17467-react-buddy/) Changelog
 
+## 2023.2.5 (2023-07-21)
+
+This release contains several stability improvements and fixes
+
+[All resolved issues](https://issues.react-buddy.com/issues/RCB?q=Milestone:%2023.2.5)
+
 ## 2023.2.4 (2023-06-23)
 
 This release contains version compatible with latest EAP as well as number of stability improvements and fixes
