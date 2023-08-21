@@ -1,5 +1,22 @@
 # [Intellij Plugin](https://plugins.jetbrains.com/plugin/17467-react-buddy/) Changelog
 
+## 2023.3 (2023-08-21)
+
+### Features
+* Test generation for React components (using **@testing-library/react**) [RCB-8701](https://issues.react-buddy.com/issue/RCB-701/Test-generation-for-React-components)
+* Support custom location in the Preview [RCB-814](https://issues.react-buddy.com/issue/RCB-814/Support-custom-location-in-the-preview)
+* Action to clone palette's component (variant) [RCB-871](https://issues.react-buddy.com/issue/RCB-871/Action-to-clone-palettes-component-variant)
+* Support images as preview for components in React Palette [RCB-828](https://issues.react-buddy.com/issue/RCB-828/Support-images-as-preview-for-components-in-React-Palette)
+* Execute live templates import resolving through macro commands [RCB-783](https://issues.react-buddy.com/issue/RCB-783/Execute-livetemplates-import-resolve-through-macro-commands)
+
+
+### Improvements
+* Improve drag and drop in JSX Outline [RCB-742](https://issues.react-buddy.com/issue/RCB-787/Improve-drag-and-drop-in-JSX-Outline)
+* Improve create story dialog [RCB-846](https://issues.react-buddy.com/issue/RCB-846/Improve-create-story-dialog)
+* Various bug fixes and stability improvements
+
+[All resolved issues](https://issues.react-buddy.com/issues/RCB?q=Milestone:%2023.3)
+
 ## 2023.2.5 (2023-07-21)
 
 This release contains several stability improvements and fixes
